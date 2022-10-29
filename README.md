@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ouanes</h1>
-<img align="right" alt="codin" width="400" src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e477y86wvtujepfeik5lmqsivmhot8zccwfttthzw3i&rid=giphy.gif&ct=g">
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ouanes/">
     <img src="https://img.shields.io/badge/ali-ouanes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
@@ -7,16 +7,14 @@
 <a href="https://twitter.com/aliwennes">
     <img src="https://img.shields.io/badge/-@aliwennes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
  </a>
+<a href="https://www.instagram.com/ouanes.ali">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 - 🔭 I’m currently working on **Flutter Project**
 
 - 📫 How to reach me **ouanesali67@gmail.com**
 
-<h2>🤝 Let's stay connected!</h2>
-<p align="left">
-<a href="https://linkedin.com/in/ali-ouanes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-ouanes/" height="30" width="40" /></a>
-<a href="https://instagram.com/ouanes.ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ouanes.ali" height="30" width="40" /></a>
-</p>
 
 
 <h2>🛠 My Toolkit</h2>
