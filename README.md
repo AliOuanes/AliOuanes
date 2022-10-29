@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Ouanes</h1>
+[![Ali's GitHub Banner](./assets/GitHubBannerAli.png)]()
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ouanes/">
