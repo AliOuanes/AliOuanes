@@ -6,7 +6,9 @@
 <a href="https://twitter.com/aliwennes">
     <img src="https://img.shields.io/badge/-@aliwennes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
  </a>
-  
+ <a href="https://twitter.com/aliwennes">
+    <img src="https://img.shields.io/badge/-@aliwennes-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+ </a>
   
 - 🔭 I’m currently working on **Flutter Project**
 
