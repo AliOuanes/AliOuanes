@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Ouanes</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ouanes/">
-    <img src="https://img.shields.io/badge/ali-ouanes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/ali_ouanes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 <a href="https://twitter.com/aliwennes">
     <img src="https://img.shields.io/badge/-@aliwennes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
  </a>
+  
+  
 - 🔭 I’m currently working on **Flutter Project**
 
 - 📫 How to reach me **ouanesali67@gmail.com**
