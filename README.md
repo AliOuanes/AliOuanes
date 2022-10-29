@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ouanes/">
-    <img src="https://img.shields.io/badge/ali-ouanes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/ali_ouanes-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
 <a href="https://twitter.com/aliwennes">
     <img src="https://img.shields.io/badge/-@aliwennes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
@@ -56,7 +56,7 @@
 
 <h2>🏆 Github Stats</h2> 
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliouanes&show_icons=true&locale=en&layout=compact" alt="aliouanes" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliouanes&show_icons=true&locale=en" alt="aliouanes" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aliouanes&" alt="aliouanes" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliouanes&show_icons=true&locale=en" alt="aliouanes" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliouanes&show_icons=true&locale=en&layout=compact" alt="aliouanes" />
+  	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aliouanes&" alt="aliouanes" />
 </p>
