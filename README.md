@@ -1,5 +1,6 @@
-[![Ali's GitHub Banner](./assets/GitHubBannerAli.png)]()
-
+<p align="center">
+   <img src="assets/GitHubBannerAli.png">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-ouanes/">
@@ -57,7 +58,7 @@
 
 <h2>🏆 Github Stats</h2> 
 <p align="center"> 
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliouanes&show_icons=true&locale=en" alt="aliouanes" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliouanes&show_icons=true&locale=en&layout=compact" alt="aliouanes" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliouanes&show_icons=true&locale=en" alt="aliouanes" />
   	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aliouanes&" alt="aliouanes" />
 </p>
